@@ -13,6 +13,7 @@ This tool allows users to check balances for a variety of blockchains using prov
 - **Cron Jobs:** Set periodic balance checks using cron scheduling.
 
 # Termux ID Activation
+![Termux ID Activation](https://github.com/X-DAY007/multi-blockchain-balance-checker/blob/main/IdTermux.jpg)
 
 This project requires activating your Termux ID to get started. Follow the instructions below to activate your Termux ID and connect it to the system.
 
