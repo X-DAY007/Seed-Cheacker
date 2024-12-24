@@ -12,6 +12,29 @@ This tool allows users to check balances for a variety of blockchains using prov
 - **Error Handling:** Handles various errors that might occur while checking balances or fetching data from APIs.
 - **Cron Jobs:** Set periodic balance checks using cron scheduling.
 
+# Termux ID Activation
+
+This project requires activating your Termux ID to get started. Follow the instructions below to activate your Termux ID and connect it to the system.
+
+## Steps to Activate Your Termux ID
+
+1. **Obtain Your Termux ID:**
+   - Open your Termux app and run the following command to get your Termux ID:
+     ```bash
+     termux-id
+     ```
+
+2. **Send Your Termux ID to the Telegram Bot:**
+   - Send your Termux ID to the following Telegram bot for activation:
+     - **Telegram Bot:** [@xss_id](https://t.me/xss_id)
+     - In your Telegram, search for `@xss_id` and send your Termux ID as a message.
+
+3. **Wait for Confirmation:**
+   - Once you send your Termux ID, the bot will process it and send a confirmation message when your ID is successfully activated.
+
+4. **Start Using the Tool:**
+   - After activation, you can use the project as intended in your Termux environment.
+
 ## Installation
 
 ### Prerequisites
